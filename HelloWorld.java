@@ -34,6 +34,6 @@
  */
 public class HelloWorld {
   public static void main(String[] args) {
-    System.out.println("Welcomes to AsHARam World's");
+    System.out.println("Welcomes to Ram World's");
   }
 }
